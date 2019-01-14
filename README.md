@@ -1,0 +1,2 @@
+# Multiplayer-Tile-Game
+A multiplayer game implemented in Java using Sockets. The project contains an exe for the server which should be run on the same computer as the clients (although this is easily extended to allow players from different IPs). It also contains an exe for a human client to play as well as an exe for a bot player. The project was completed as part of my Advanced Programming module to practice using Sockets and designing protocols amongst other areas such as multi-threading.
